@@ -16,7 +16,7 @@ const mimeTypes = {
   'application/json': '.json',
   'application/ld+json': '.jsonld',
   'application/msword': '.doc',
-  'application/octet-stream': '.bin',
+  'application/octet-stream': '.mp4',
   'application/ogg': '.ogx',
   'application/pdf': '.pdf',
   'application/php': '.php',
